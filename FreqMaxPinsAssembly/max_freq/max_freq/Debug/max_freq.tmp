@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\You Tube - Meu Canal\05 Arduino e AVR Curso\arduino_175_Frequência Máxima Assembly\arduino175_WR_files\max_freq\max_freq\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\You Tube - Meu Canal\05 Arduino e AVR Curso\arduino_175_Frequência Máxima Assembly\arduino175_WR_files\max_freq\max_freq\max_freq.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\You Tube - Meu Canal\05 Arduino e AVR Curso\arduino_175_Frequência Máxima Assembly\arduino175_WR_files\max_freq\max_freq\Debug/max_freq.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>max_freq.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>max_freq.map</FILE>
+  <FILE>max_freq.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\You Tube - Meu Canal\05 Arduino e AVR Curso\arduino_175_Frequência Máxima Assembly\arduino175_WR_files\max_freq\max_freq\max_freq.asm</FILE><LINE>17</LINE></inicio>
+  <loop><FILE>C:\You Tube - Meu Canal\05 Arduino e AVR Curso\arduino_175_Frequência Máxima Assembly\arduino175_WR_files\max_freq\max_freq\max_freq.asm</FILE><LINE>29</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

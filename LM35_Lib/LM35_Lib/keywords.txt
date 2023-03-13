@@ -1,0 +1,3 @@
+LM35_Lib	KEYWORD1
+celsius		KEYWORD2
+farenheit	KEYWORD2

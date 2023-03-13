@@ -1,0 +1,3 @@
+Ultrassonico_Lib	KEYWORD1
+distancia_cm		KEYWORD2
+distancia_pol		KEYWORD2

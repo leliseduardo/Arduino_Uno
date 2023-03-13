@@ -1,0 +1,3 @@
+Osciladores	KEYWORD1
+osc_1k		KEYWORD2
+osc_2k		KEYWORD3

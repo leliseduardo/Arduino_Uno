@@ -1,0 +1,15 @@
+
+
+shield_10		KEYWORD1
+shield10		KEYWORD1
+	  
+setLed1			KEYWORD2
+resetLed1		KEYWORD2
+setBuzz			KEYWORD2
+resetBuzz		KEYWORD2
+setRelay		KEYWORD2
+resetRelay		KEYWORD2
+testBt1			KEYWORD2
+testBt2			KEYWORD2
+setAll			KEYWORD2
+resetAll		KEYWORD2
